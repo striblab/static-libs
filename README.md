@@ -60,3 +60,4 @@ The following is a quick example using [Underscore.JS](http://underscorejs.org/)
 This is (hopefully) an up to date list of libraries included in this project:
 
 * [Underscore.js](http://underscorejs.org/) - `./libs/underscore.js/`
+* [Pym.js](http://blog.apps.npr.org/pym.js/) - './libs/pym.js/'
