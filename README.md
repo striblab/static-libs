@@ -30,7 +30,7 @@ Make sure the following is done, but note that it should only be done once:
 
 To publish to AWS:
 
-* A specific library version: `aws s3 sync ./libs/<LIBRARY-NAME>/<VERSION>/ s3://static.startribune.com/assets/libs/<LIBRARY-NAME>/<VERSION>/ --acl "public-read"`
+* A specific library version: `aws s3 sync ./libs/<LIBRARY-NAME>/<VERSION>/ s3://static.startribune.com/assets/libs/<LIBRARY-NAME>/<VERSION>/ --acl "public-read" --cache-control="public, max-age=31536000"`
 
 ## Accessing
 
@@ -51,7 +51,7 @@ The following is a quick example using [Underscore.JS](http://underscorejs.org/)
     1. `wget https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.map -O ./libs/underscore.js/1.8.3/underscore-min.map`
     1. `wget https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore.js -O ./libs/underscore.js/1.8.3/underscore.js`
 1. Check the files locally.
-1. Publish: `aws s3 sync ./libs/underscore.js/1.8.3/ s3://static.startribune.com/assets/libs/underscore.js/1.8.3/ --acl "public-read"`
+1. Publish: `aws s3 sync ./libs/underscore.js/1.8.3/ s3://static.startribune.com/assets/libs/underscore.js/1.8.3/ --acl "public-read" --cache-control="public, max-age=31536000"`
     * If you are managing multiple AWS profiles, you can add the `--profile strib` flag to the command.
 1. The main file will be accessible at: `http://static.startribune.com/assets/libs/underscore.js/1.8.3/underscore-min.js`
 
@@ -60,4 +60,5 @@ The following is a quick example using [Underscore.JS](http://underscorejs.org/)
 This is (hopefully) an up to date list of libraries included in this project:
 
 * [Underscore.js](http://underscorejs.org/) - `./libs/underscore.js/`
-* [Pym.js](http://blog.apps.npr.org/pym.js/) - './libs/pym.js/'
+* [Pym.js](http://blog.apps.npr.org/pym.js/) - `./libs/pym.js/`
+* [Lodash.js](https://lodash.com/) - `./libs/lodash/`
