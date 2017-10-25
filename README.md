@@ -61,4 +61,5 @@ This is (hopefully) an up to date list of libraries included in this project:
 
 * [Underscore.js](http://underscorejs.org/) - `./libs/underscore.js/`
 * [Pym.js](http://blog.apps.npr.org/pym.js/) - `./libs/pym.js/`
-* [Lodash.js](https://lodash.com/) - `./libs/lodash/`
+* [Lodash](https://lodash.com/) - `./libs/lodash/`
+* [Moment.js](https://momentjs.com/) - `./libs/moment.js/`
