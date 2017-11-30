@@ -29,7 +29,7 @@ Make sure the following is done, but note that it should only be done once:
 1. [Configure awscli](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html)
 
 To publish to AWS:
-
+* Do all: `aws s3 sync ./libs/ s3://static.startribune.com/assets/libs/ --acl "public-read" --cache-control="public, max-age=31536000"`
 * A specific library version: `aws s3 sync ./libs/<LIBRARY-NAME>/<VERSION>/ s3://static.startribune.com/assets/libs/<LIBRARY-NAME>/<VERSION>/ --acl "public-read" --cache-control="public, max-age=31536000"`
 
 ## Accessing
