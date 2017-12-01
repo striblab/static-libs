@@ -63,3 +63,5 @@ This is (hopefully) an up to date list of libraries included in this project:
 * [Pym.js](http://blog.apps.npr.org/pym.js/) - `./libs/pym.js/`
 * [Lodash](https://lodash.com/) - `./libs/lodash/`
 * [Moment.js](https://momentjs.com/) - `./libs/moment.js/`
+* [Topojson](https://github.com/topojson/topojson) - `./libs/topojson/`
+* [D3](https://d3js.org/) - `./libs/d3/`
