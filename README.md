@@ -69,3 +69,4 @@ This is (hopefully) an up to date list of libraries included in this project:
 * [jQuery](https://jquery.com/) - `./libs/jquery/`
 * [object-fit-images](https://www.npmjs.com/package/object-fit-images) - `./libs/object-fit-images/`
 * Omniture - This is a custom version of the Omniture JS include for Star Tribune - `./libs/omniture-strib/`
+* Strib fonts - These are owned by WebType and cannot be reused without permission, and are here for internal ease of use only - `./libs/strib-fonts/`
