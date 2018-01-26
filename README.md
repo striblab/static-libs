@@ -66,6 +66,7 @@ This is (hopefully) an up to date list of libraries included in this project:
 * [Moment.js](https://momentjs.com/) - `./libs/moment.js/`
 * [Topojson](https://github.com/topojson/topojson) - `./libs/topojson/`
 * [D3](https://d3js.org/) - `./libs/d3/`
+* [D3 Legend](http://d3-legend.susielu.com/) - `./libs/d3-legend/`
 * [jQuery](https://jquery.com/) - `./libs/jquery/`
 * [jQuery ScrollTo](https://github.com/flesler/jquery.scrollTo) - `./libs/jquery-scrollTo/`
 * [object-fit-images](https://www.npmjs.com/package/object-fit-images) - `./libs/object-fit-images/`
