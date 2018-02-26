@@ -71,6 +71,6 @@ This is (hopefully) an up to date list of libraries included in this project:
 * [jQuery ScrollTo](https://github.com/flesler/jquery.scrollTo) - `./libs/jquery-scrollTo/`
 * [object-fit-images](https://www.npmjs.com/package/object-fit-images) - `./libs/object-fit-images/`
 * [noUISlider](https://refreshless.com/nouislider/) - `./libs/nouislider/`
-* [better-dateinput-polyfill](https://github.com/chemerisuk/better-dateinput-polyfill) - `./libs/better-dateinput-polyfill`
+* [nodep-date-input-polyfill](https://www.npmjs.com/package/nodep-date-input-polyfill) - `./libs/nodep-date-input-polyfill`
 * Omniture - This is a custom version of the Omniture JS include for Star Tribune - `./libs/omniture-strib/`
 * Strib fonts - These are owned by WebType and cannot be reused without permission, and are here for internal ease of use only - `./libs/strib-fonts/`
