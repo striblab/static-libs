@@ -74,3 +74,4 @@ This is (hopefully) an up to date list of libraries included in this project:
 * [nodep-date-input-polyfill](https://www.npmjs.com/package/nodep-date-input-polyfill) - `./libs/nodep-date-input-polyfill`
 * Omniture - This is a custom version of the Omniture JS include for Star Tribune - `./libs/omniture-strib/`
 * Strib fonts - These are owned by WebType and cannot be reused without permission, and are here for internal ease of use only - `./libs/strib-fonts/`
+* [Strib icons](https://striblab.github.io/strib-icons/) - These are property of Star Tribune - `./libs/strib-icons/`
