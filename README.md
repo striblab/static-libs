@@ -70,6 +70,7 @@ This is (hopefully) an up to date list of libraries included in this project:
 - [C3](https://c3js.org/) - `./libs/c3/`
 - [jQuery](https://jquery.com/) - `./libs/jquery/`
 - [jQuery ScrollTo](https://github.com/flesler/jquery.scrollTo) - `./libs/jquery-scrollTo/`
+- [Selectize](https://selectize.github.io/selectize.js/) - `./libs/selectizejs/`
 - [object-fit-images](https://www.npmjs.com/package/object-fit-images) - `./libs/object-fit-images/`
 - [noUISlider](https://refreshless.com/nouislider/) - `./libs/nouislider/`
 - [nodep-date-input-polyfill](https://www.npmjs.com/package/nodep-date-input-polyfill) - `./libs/nodep-date-input-polyfill`
