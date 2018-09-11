@@ -67,6 +67,7 @@ This is (hopefully) an up to date list of libraries included in this project:
 - [Topojson](https://github.com/topojson/topojson) - `./libs/topojson/`
 - [D3](https://d3js.org/) - `./libs/d3/`
 - [D3 Legend](http://d3-legend.susielu.com/) - `./libs/d3-legend/`
+- [D3 Annotation](http://d3-annotation.susielu.com/) - `./libs/d3-annotation`
 - [C3](https://c3js.org/) - `./libs/c3/`
 - [jQuery](https://jquery.com/) - `./libs/jquery/`
 - [jQuery ScrollTo](https://github.com/flesler/jquery.scrollTo) - `./libs/jquery-scrollTo/`
