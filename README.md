@@ -75,6 +75,7 @@ This is (hopefully) an up to date list of libraries included in this project:
 - [object-fit-images](https://www.npmjs.com/package/object-fit-images) - `./libs/object-fit-images/`
 - [noUISlider](https://refreshless.com/nouislider/) - `./libs/nouislider/`
 - [nodep-date-input-polyfill](https://www.npmjs.com/package/nodep-date-input-polyfill) - `./libs/nodep-date-input-polyfill`
+- [typeahead.js](https://github.com/twitter/typeahead.js) - `./libs/typeahead.js` - Note that this library is rather old.
 - Omniture - This is a custom version of the Omniture JS include for Star Tribune - `./libs/omniture-strib/`
 - Strib fonts - These are owned by WebType and cannot be reused without permission, and are here for internal ease of use only - `./libs/strib-fonts/`
 - [Strib icons](https://striblab.github.io/strib-icons/) - These are property of Star Tribune - `./libs/strib-icons/`
